@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 266" width="1000" height="266" shape-rendering="crispEdges"><g transform="translate(0,0)"><rect x="1" y="1" width="230" height="120" rx="10" fill="#232a2d" stroke="#3a4348" stroke-width="2"/>
+<g><text x="20" y="62" font-size="34">🧠</text><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.8s" begin="0.0s" repeatCount="indefinite"/></g>
+<rect x="196" y="16" width="12" height="12" fill="#aee9b0"/><rect x="180" y="16" width="12" height="12" fill="#aee9b0" opacity=".45"/>
+<text x="20" y="92" font-family="'Courier New',Consolas,monospace" font-weight="bold" font-size="17" fill="#aee9b0">IA &amp; código</text>
+<text x="20" y="111" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#aab3b0">python, datos, modelos</text></g><g transform="translate(256,0)"><rect x="1" y="1" width="230" height="120" rx="10" fill="#232a2d" stroke="#3a4348" stroke-width="2"/>
+<g><text x="20" y="62" font-size="34">🔌</text><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.8s" begin="0.3s" repeatCount="indefinite"/></g>
+<rect x="196" y="16" width="12" height="12" fill="#f6a6bd"/><rect x="180" y="16" width="12" height="12" fill="#f6a6bd" opacity=".45"/>
+<text x="20" y="92" font-family="'Courier New',Consolas,monospace" font-weight="bold" font-size="17" fill="#aee9b0">Arduino</text>
+<text x="20" y="111" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#aab3b0">ideas que prenden luces</text></g><g transform="translate(512,0)"><rect x="1" y="1" width="230" height="120" rx="10" fill="#232a2d" stroke="#3a4348" stroke-width="2"/>
+<g><text x="20" y="62" font-size="34">💸</text><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.8s" begin="0.6s" repeatCount="indefinite"/></g>
+<rect x="196" y="16" width="12" height="12" fill="#3b9be0"/><rect x="180" y="16" width="12" height="12" fill="#3b9be0" opacity=".45"/>
+<text x="20" y="92" font-family="'Courier New',Consolas,monospace" font-weight="bold" font-size="17" fill="#aee9b0">Geldmanagement</text>
+<text x="20" y="111" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#aab3b0">mis finanzas en Notion</text></g><g transform="translate(768,0)"><rect x="1" y="1" width="230" height="120" rx="10" fill="#232a2d" stroke="#3a4348" stroke-width="2"/>
+<g><text x="20" y="62" font-size="34">🍅</text><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.8s" begin="0.8999999999999999s" repeatCount="indefinite"/></g>
+<rect x="196" y="16" width="12" height="12" fill="#f6a6bd"/><rect x="180" y="16" width="12" height="12" fill="#f6a6bd" opacity=".45"/>
+<text x="20" y="92" font-family="'Courier New',Consolas,monospace" font-weight="bold" font-size="17" fill="#aee9b0">Pomodoro</text>
+<text x="20" y="111" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#aab3b0">estudiar suave y en paz</text></g><g transform="translate(0,144)"><rect x="1" y="1" width="230" height="120" rx="10" fill="#232a2d" stroke="#3a4348" stroke-width="2"/>
+<g><text x="20" y="62" font-size="34">🌿</text><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.8s" begin="1.2s" repeatCount="indefinite"/></g>
+<rect x="196" y="16" width="12" height="12" fill="#aee9b0"/><rect x="180" y="16" width="12" height="12" fill="#aee9b0" opacity=".45"/>
+<text x="20" y="92" font-family="'Courier New',Consolas,monospace" font-weight="bold" font-size="17" fill="#aee9b0">Ghibli</text>
+<text x="20" y="111" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#aab3b0">praderas, pétalos, calma</text></g><g transform="translate(256,144)"><rect x="1" y="1" width="230" height="120" rx="10" fill="#232a2d" stroke="#3a4348" stroke-width="2"/>
+<g><text x="20" y="62" font-size="34">⚔️</text><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.8s" begin="1.5s" repeatCount="indefinite"/></g>
+<rect x="196" y="16" width="12" height="12" fill="#3b9be0"/><rect x="180" y="16" width="12" height="12" fill="#3b9be0" opacity=".45"/>
+<text x="20" y="92" font-family="'Courier New',Consolas,monospace" font-weight="bold" font-size="17" fill="#aee9b0">Anime</text>
+<text x="20" y="111" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#aab3b0">jujutsu · demon slayer</text></g><g transform="translate(512,144)"><rect x="1" y="1" width="230" height="120" rx="10" fill="#232a2d" stroke="#3a4348" stroke-width="2"/>
+<g><text x="20" y="62" font-size="34">🗣️</text><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.8s" begin="1.7999999999999998s" repeatCount="indefinite"/></g>
+<rect x="196" y="16" width="12" height="12" fill="#aee9b0"/><rect x="180" y="16" width="12" height="12" fill="#aee9b0" opacity=".45"/>
+<text x="20" y="92" font-family="'Courier New',Consolas,monospace" font-weight="bold" font-size="17" fill="#aee9b0">Sprachen · Lingue</text>
+<text x="20" y="111" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#aab3b0">es · en · de · it</text></g><g transform="translate(768,144)"><rect x="1" y="1" width="230" height="120" rx="10" fill="#232a2d" stroke="#3a4348" stroke-width="2"/>
+<g><text x="20" y="62" font-size="34">✈️</text><animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="2.8s" begin="2.1s" repeatCount="indefinite"/></g>
+<rect x="196" y="16" width="12" height="12" fill="#f6a6bd"/><rect x="180" y="16" width="12" height="12" fill="#f6a6bd" opacity=".45"/>
+<text x="20" y="92" font-family="'Courier New',Consolas,monospace" font-weight="bold" font-size="17" fill="#aee9b0">Reisen · Viajes</text>
+<text x="20" y="111" font-family="'Courier New',Consolas,monospace" font-size="13" fill="#aab3b0">bitácora en mi blog</text></g></svg>
