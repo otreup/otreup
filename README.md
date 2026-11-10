@@ -1,38 +1,30 @@
-<p align="center">
-  <img src="header.svg" alt="Bayardito — Edison, ingeniería con pezuñas" width="100%" />
-</p>
+<p align="center"><img src="hero.svg" alt="Edison, aka Bayardito — IA, código y Arduino en una pradera pixel-art" width="100%" /></p>
+<p align="center"><img src="callout.svg" alt="el brote dice: ¡tú puedes!" width="100%" /></p>
 
-<img src="sec-about.svg" alt="01 sobre mí" height="44" />
+<img src="s-about.svg" alt="sobre mí" height="44" />
 
-<table>
-<tr>
-<td width="340" valign="top"><img src="about-card.svg" alt="ficha de Edison" width="340" /></td>
-<td valign="top">
+Hola · Hallo · Ciao · Hello 👋 Soy **Edison** (también *Bayardito*).
 
-Soy **Edison**, pero por aquí me dicen **Bayardito** (sí, la vaca de la foto soy yo, en espíritu).
+Me muevo entre **IA, código y Arduino**, organizo mi vida en dashboards de Notion, me encantan las praderas de Ghibli y el anime, y hablo **español, English, Deutsch e italiano**. Tengo tantas ideas a la vez que este perfil es más un jardín que una oficina 🌱
 
-Me muevo entre dos mundos: el de **código e inteligencia artificial** y el de los **cables y el Arduino**. Me gusta cuando una idea sale de la pantalla y hace algo en el mundo real.
+> **es** construyendo en silencio · **de** ich baue leise · **it** costruisco in silenzio · **en** quietly building
 
-- 🧠 Ahora: experimentando con IA y datos
-- 🔧 Siempre: armando cosas con Arduino
-- ✈️ Cuando salgo del teclado: viajo y lo cuento en mi [blog](https://misviajesedi.blogspot.com/)
+✈️ Mi bitácora de viajes: [misviajesedi.blogspot.com](https://misviajesedi.blogspot.com/)
 
-> *quietly building… no spam, please.*
+<img src="s-worlds.svg" alt="mis mundos" height="44" />
 
-</td>
-</tr>
-</table>
+<p align="center"><img src="worlds.svg" alt="IA y código, Arduino, Geldmanagement, Pomodoro, Ghibli, Anime, Sprachen, Reisen" width="100%" /></p>
 
-<img src="sec-stack.svg" alt="02 mi kit" height="44" />
+<img src="s-kit.svg" alt="mi kit" height="44" />
 
-<p align="center"><img src="stack.svg" alt="Python, Arduino, TypeScript, Jupyter, Notion, Git, GitHub, VS Code" width="100%" /></p>
+<p align="center"><img src="kit.svg" alt="Python, Arduino, TypeScript, Jupyter, Notion, Git, GitHub, VS Code" width="100%" /></p>
 
-<img src="sec-projects.svg" alt="03 proyectos" height="44" />
+<img src="s-projects.svg" alt="proyectos" height="44" />
 
 <p align="center">
-  <a href="https://github.com/otreup/Atalaya-AI"><img src="card-atalaya.svg" alt="Atalaya-AI" width="32%" /></a>
-  <a href="https://github.com/otreup/smart-traffic-lab"><img src="card-traffic.svg" alt="smart-traffic-lab" width="32%" /></a>
-  <a href="https://github.com/otreup/My-wishlist"><img src="card-wishlist.svg" alt="My-wishlist" width="32%" /></a>
+  <a href="https://github.com/otreup/Atalaya-AI"><img src="p-atalaya.svg" alt="Atalaya-AI" width="32%" /></a>
+  <a href="https://github.com/otreup/smart-traffic-lab"><img src="p-traffic.svg" alt="smart-traffic-lab" width="32%" /></a>
+  <a href="https://github.com/otreup/My-wishlist"><img src="p-wishlist.svg" alt="My-wishlist" width="32%" /></a>
 </p>
 
-<p align="center"><img src="footer.svg" alt="muuuu" width="100%" /></p>
+<p align="center"><img src="ground.svg" alt="hola, hallo, ciao, hello" width="100%" /></p>
